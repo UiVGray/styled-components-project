@@ -1,3 +1,6 @@
+#Test project with usage of Styled Components for React
+
+# React Documentation
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
